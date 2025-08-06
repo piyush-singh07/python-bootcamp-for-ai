@@ -1,3 +1,4 @@
+#program for slice
 str1= 'javaprogramminglanguage'
 print(str1[3:9])
 print(str1[3:])
