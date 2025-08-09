@@ -1,0 +1,5 @@
+print('hellohi')
+print('hello\thi')
+print('hello\nhi')
+print('My name is \'Aly\'')
+print('My name is \"Pop\"')
